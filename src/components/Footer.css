@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 1rem 9%;
+    background: rgb(133, 167, 202);
+    margin:0px;
+  }
+  
+  .footer-text p {
+    font-size: 1.6rem; /* Modified font size */
+  }
